@@ -9,13 +9,7 @@ d) A equipa é constituida por Henrique Jones, Daniel Cozmac, Dinis Soares, Luí
 e) Chatbot com recomendações para juntar o evento com possibilidades de alojamentos. 
    Mapa interativo para facilitar o acesso a eventos na localidade desejada.
 
-f)[Utilizador]
-       ↓
-[Frontend (React)]
-       ↓
-[Backend (API)]
-       ↓
-[Base de Dados]
+f)  [Utilizador] -> [Frontend (React)] -> [Backend (API)] -> [Base de Dados]
 
 g) Dificuldade em ter a validação do evento. No inicio é dificil ter a informacao de eventos em zonas mais rurais.
 
