@@ -21,7 +21,7 @@ Contamos com um grupo dedicado de programadores focado em entregar a melhor expe
 
 ## 🛠️ Tecnologias Utilizadas
 
-*(Sugestão: Podes preencher esta secção com as linguagens que usaram, ex: React, Node.js, Python, etc.)*
+
 
 * **Frontend:** [em desenvolvimento..]
 * **Backend:** [em desenvolvimento..]
