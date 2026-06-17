@@ -11,7 +11,7 @@ Para que eu possa encontrar entretenimento sem precisar viajar longas distância
 
 ---
 
-### US03: Compra de Bilhetes (Stripe)
+### US02: Compra de Bilhetes (Stripe)
 
 Como um utilizador interessado num evento,<br>
 Eu quero realizar o pagamento do bilhete de forma segura dentro da aplicação,<br>
@@ -23,7 +23,7 @@ Para que eu garanta a minha entrada sem ter de sair da plataforma.<br>
 
 ---
 
-### US04: Filtros de Categoria e Data
+### US03: Filtros de Categoria e Data
 
 Como um utilizador que planeia o seu tempo livre,<br>
 Eu quero filtrar os eventos por categoria e por intervalo de datas,<br>
