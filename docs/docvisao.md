@@ -6,7 +6,7 @@ O **SpotFinder** é uma plataforma integrada de descoberta cultural que visa sim
 
 ### 📋 Descrição do Projeto
 
-* **O Sistema:** Uma ferramenta avançada de busca de eventos em Portugal que não se limita à agenda: combina a escolha de um evento ou conjunto de eventos com sugestões de **alojamento local** e outras atividades complementares.
+* **O Sistema:** Uma ferramenta avançada de busca de eventos em Portugal que não se limita à agenda: combina a escolha de um evento ou conjunto de eventos  outras atividades complementares.
 
 * **Público-Alvo:** O consumidor final é a **população em geral**. O foco não é uma entidade corporativa, mas sim as pessoas que procuram dinamizar o seu tempo livre.
 
@@ -21,7 +21,6 @@ O **SpotFinder** é uma plataforma integrada de descoberta cultural que visa sim
     * Hermenegildo Brito
 
 * **Funcionalidades Chave:**
-    * **Chatbot:** Sistema de recomendações que une o evento a possibilidades de alojamento.
     * **Mapa Interativo:** Interface visual para facilitar o acesso e descoberta de eventos na localidade pretendida.
 
 * **Arquitetura Técnica:**
@@ -31,12 +30,11 @@ O **SpotFinder** é uma plataforma integrada de descoberta cultural que visa sim
     * Dificuldade na **validação rigorosa** da informação dos eventos.
     * Barreira inicial na recolha de dados de eventos em **zonas rurais** ou de menor densidade populacional.
 
-* **Inovação Principal:**
-    Criação de um **chatbot especializado** para aconselhamento personalizado ao utilizador.
+
 
 ---
 
 ## 🛠️ Tecnologias
 * **Frontend:** React
 * **Backend:** API REST
-* **Interface:** Mapa Interativo & Chatbot Inteligente
+* **Interface:** Mapa Interativo 
